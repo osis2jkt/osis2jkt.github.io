@@ -8,9 +8,9 @@ section span {
 	height: 320px;
 }
 
-/* .parallax img {
-		opacity: 0.5 !important;
-} */
+ .parallax #imgParallax {
+	background-size: cover;
+} 
 
 section,
 footer {
@@ -60,6 +60,17 @@ section #imgAktivities {
 .sumpahPemuda hr {
 	width: 100%;
 	border-top: 1px solid #424242;
+}
+
+/*.slider #imgSlider2 {
+	width: 0px;
+}*/
+
+.carousel #imgCarousel {
+	/*width: 400px;*/
+	width: 80%;
+	/*height: 80%;*/
+	/*background-position: 0 -100px !important;*/
 }
 
 
