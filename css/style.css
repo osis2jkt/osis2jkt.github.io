@@ -73,6 +73,9 @@ section #imgAktivities {
 	/*background-position: 0 -100px !important;*/
 }
 
+.gallery .row img {
+	margin-bottom: 20px;
+}
 
 
 
